@@ -1,0 +1,21 @@
+{
+  "name": "X-Gate",
+  "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/x_gate.png",
+  "keywords": ["x-gate"],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 10081,
+      "address": "0x496d7d2B48Cc6a5c70C6E04CA9c5348d1f65E6E7",
+      "name": "USDTX",
+      "symbol": "USDTX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/10081_usdtx.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
