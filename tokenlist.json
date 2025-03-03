@@ -6,6 +6,14 @@
   "tokens": [
     {
       "chainId": 10081,
+      "address": "0x8B3Ae763DEc0f55371CB92cb271b20d4dA8eACB5",
+      "name": "WJOCT",
+      "symbol": "WJOCT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/10081_wjoct.png"
+    },
+    {
+      "chainId": 10081,
       "address": "0x07B6447c4B05bcaC238a61D82d33a9E9d6c98041",
       "name": "USDTX",
       "symbol": "USDTX",
@@ -19,6 +27,14 @@
       "symbol": "USDCX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/10081_usdcx.svg"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/11155111_weth.png"
     },
     {
       "chainId": 11155111,
