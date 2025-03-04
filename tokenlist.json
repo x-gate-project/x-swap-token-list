@@ -5,44 +5,20 @@
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 10081,
-      "address": "0x382eb09D8cE59968683001947EF04cB34f7A180E",
+      "chainId": 81,
+      "address": "0xe18e898E5843E8a8EA7A1C4AF08730DcA6689aA9",
       "name": "USDTX",
       "symbol": "USDTX",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/10081_usdtx.svg"
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/81_usdtx.svg"
     },
     {
-      "chainId": 10081,
-      "address": "0x367f476c9B5fA1e64F3d7EE19c3E4E2f76D42200",
+      "chainId": 81,
+      "address": "0x538F7567f16cbE40d051e9f2928d215343D9A13A",
       "name": "USDCX",
       "symbol": "USDCX",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/10081_usdcx.svg"
-    },
-    {
-      "chainId": 11155111,
-      "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/11155111_weth.png"
-    },
-    {
-      "chainId": 11155111,
-      "address": "0x7169D38820dfd117C3FA1f22a697dBA58d90BA06",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/11155111_usdt.svg"
-    },
-    {
-      "chainId": 11155111,
-      "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/11155111_usdc.svg"
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/81_usdcx.svg"
     }
   ],
   "version": {
