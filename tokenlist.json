@@ -85,6 +85,22 @@
       "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/43114_usdcx.svg"
     },
     {
+      "chainId": 10081,
+      "address": "0x382eb09D8cE59968683001947EF04cB34f7A180E",
+      "name": "USDTX",
+      "symbol": "USDTX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/10081_usdtx.svg"
+    },
+    {
+      "chainId": 10081,
+      "address": "0x367f476c9B5fA1e64F3d7EE19c3E4E2f76D42200",
+      "name": "USDCX",
+      "symbol": "USDCX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/10081_usdcx.svg"
+    },
+    {
       "chainId": 1,
       "address": "0x111111111117dC0aa78b770fA6A738034120C302",
       "name": "1inch",
