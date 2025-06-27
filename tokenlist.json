@@ -21,6 +21,14 @@
       "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/1_usdcx.svg"
     },
     {
+      "chainId": 1,
+      "address": "0xbb1E1399EEE1f577F1B4359224155f5Db39CA084",
+      "name": "JOCX",
+      "symbol": "JOCX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/1_jocx.svg"
+    },
+    {
       "chainId": 81,
       "address": "0xe18e898E5843E8a8EA7A1C4AF08730DcA6689aA9",
       "name": "USDTX",
@@ -53,6 +61,14 @@
       "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/8453_usdcx.svg"
     },
     {
+      "chainId": 8453,
+      "address": "0xbb1E1399EEE1f577F1B4359224155f5Db39CA084",
+      "name": "JOCX",
+      "symbol": "JOCX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/8453_jocx.svg"
+    },
+    {
       "chainId": 42161,
       "address": "0xe18e898E5843E8a8EA7A1C4AF08730DcA6689aA9",
       "name": "USDTX",
@@ -69,6 +85,14 @@
       "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/42161_usdcx.svg"
     },
     {
+      "chainId": 42161,
+      "address": "0xbb1E1399EEE1f577F1B4359224155f5Db39CA084",
+      "name": "JOCX",
+      "symbol": "JOCX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/42161_jocx.svg"
+    },
+    {
       "chainId": 43114,
       "address": "0xe18e898E5843E8a8EA7A1C4AF08730DcA6689aA9",
       "name": "USDTX",
@@ -83,6 +107,14 @@
       "symbol": "USDCX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/43114_usdcx.svg"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xbb1E1399EEE1f577F1B4359224155f5Db39CA084",
+      "name": "JOCX",
+      "symbol": "JOCX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/43114_jocx.svg"
     },
     {
       "chainId": 10081,
