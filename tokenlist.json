@@ -134,6 +134,30 @@
     },
     {
       "chainId": 1,
+      "address": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+      "name": "JPYC",
+      "symbol": "JPYC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/1_jpyc.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+      "name": "JPYC",
+      "symbol": "JPYC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/137_jpyc.svg"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
+      "name": "JPYC",
+      "symbol": "JPYC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/43114_jpyc.svg"
+    },
+    {
+      "chainId": 1,
       "address": "0x111111111117dC0aa78b770fA6A738034120C302",
       "name": "1inch",
       "symbol": "1INCH",
